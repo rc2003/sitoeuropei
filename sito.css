@@ -1,0 +1,19 @@
+#stemma {
+    width:30px;
+    height:auto;
+    margin-left:15px;
+ }
+
+ .nav-link {
+    color: white;
+ }
+
+ .card {
+    margin-top: 50px;
+    margin-left: 30%;
+}
+
+.list-group{
+    width: 600px;
+    background-color: #b3e0ff;
+}
